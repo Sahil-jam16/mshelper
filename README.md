@@ -28,3 +28,4 @@ APP M - Taragesh APK
 
 APP N - BotCTF
 
+frida -U -l yourscript.js -f group.cognisys.fridame
